@@ -1,0 +1,27 @@
+{
+    "author": "siliconninja",
+    "dependencies": {},
+    "keywords": [],
+    "name": "simplewatchface",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Simple Watchface",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "315cbb23-c5c3-4747-8c37-28170300c19c",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
